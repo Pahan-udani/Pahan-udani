@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **pahansanajayasekara@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="60" height="60"/></a> 
@@ -21,9 +19,15 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="60" height="60"/></a>
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="60" height="60"/></a> </p>
 
+ ---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pahan-udani&show_icons=true&locale=en&layout=compact" alt="pahan-udani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pahan-udani&show_icons=true&locale=en" alt="pahan-udani" /></p>
 
+---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
