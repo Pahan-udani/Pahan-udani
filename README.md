@@ -12,7 +12,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="60" height="60"/></a> 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="60" height="60"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="60" height="60"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="60" height="60"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="60" height="60"/></a>
@@ -21,13 +21,14 @@
 
  ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pahan-udani&show_icons=true&locale=en&layout=compact" alt="pahan-udani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pahan-udani&show_icons=true&locale=en" alt="pahan-udani" /></p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Pahan-udani&show_icons=true&locale=en&layout=compact" alt="pahan-udani" /><img  src="https://github-readme-stats.vercel.app/api?username=Pahan-udani&show_icons=true&locale=en" alt="pahan-udani" />
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="50" width="60" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="50" width="60" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="50" width="60" /></a>
 </p>
 
